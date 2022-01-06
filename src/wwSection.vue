@@ -115,7 +115,6 @@ export default {
     },
     methods: {
         toggleSidebar() {
-            console.log('Toggle !');
             this.isOpen = !this.isOpen;
         },
     },
